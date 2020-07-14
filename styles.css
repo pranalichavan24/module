@@ -1,0 +1,12 @@
+h1 {
+  color: green;
+  font-size: 36px;
+  text-align: center;
+}
+article{
+	width: 49%;
+	height: 200px;
+	float: left;
+	position: relative;
+
+}
